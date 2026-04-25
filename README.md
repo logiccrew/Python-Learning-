@@ -1,4 +1,4 @@
-# Python-Learning-
+# Python-Learning
 📘 Python Learning – Your hands-on journey to mastering Python. This repo contains:
 
 Beginner to intermediate code examples
